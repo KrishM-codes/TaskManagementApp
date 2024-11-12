@@ -292,9 +292,3 @@ curl -X PUT http://127.0.0.1:8000/api/tasks/1/ -d '{"title": "Updated Task", "de
 ```bash
 curl -X DELETE http://127.0.0.1:8000/api/tasks/1/ -H "Authorization: Bearer <your_access_token>"
 ```
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
