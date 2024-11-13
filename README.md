@@ -24,7 +24,6 @@ To run this project locally, follow the steps below:
 
 ```bash
 git clone https://github.com/KrishM-codes/TaskManagementApp/
-cd task-manager
 ```
 
 ### 2. Install dependencies:
